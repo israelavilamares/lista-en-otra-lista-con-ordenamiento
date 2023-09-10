@@ -1,0 +1,84 @@
+----------------
+pasajeros
+----------------
+ramirez castro|
+juan carlos|
+20
+1
+
+avila mares|
+israel joaquin|
+20
+2
+
+Farid Isaias|
+mora marquez|
+2
+3
+
+Martinez Aroria|
+marisa mercader|
+40
+4
+
+sanchez Garcia|
+carmelo pedroza|
+70
+5
+
+
+---------------------
+vuelos
+---------------------
+mexico,jalisco|
+california,angeles|
+22
+1
+2022
+1/05/2022
+20100
+3003.12
+200
+
+
+mexico,guerrero|
+mexico,chiapas|
+20
+2
+2023
+3/03/2022
+400
+2322.31
+300
+
+francia,bostonia|
+mexico,yucatan|
+27
+3
+2022
+23/02/2023
+100000
+500.31
+400
+
+
+EUA,HOUSTON|
+MEXICO,TULUM|
+30
+4
+2023
+23/10/2023
+10000
+5020.31
+150
+
+//primero este
+RUSIA,MOSCU|
+MEXICO,DF|
+27
+5
+2022
+23/02/2023
+100000
+500.31
+500

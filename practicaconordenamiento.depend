@@ -1,0 +1,106 @@
+# depslib dependency file v1.0
+1676091395 source:f:\seminario algoritmia\proyecto 1\prueba total de la practica\practicaconordenamiento\pasajero.cpp
+	"pasajeros.h"
+
+1676093399 f:\seminario algoritmia\proyecto 1\prueba total de la practica\practicaconordenamiento\pasajeros.h
+	"variablesExtras.h"
+
+1677135094 f:\seminario algoritmia\proyecto 1\prueba total de la practica\practicaconordenamiento\variablesextras.h
+	<iostream>
+	<string>
+	<clocale>
+	"stdlib.h"
+
+1677807221 source:f:\seminario algoritmia\proyecto 1\prueba total de la practica\practicaconordenamiento\vuelo.cpp
+	"vuelo.h"
+
+1677807221 f:\seminario algoritmia\proyecto 1\prueba total de la practica\practicaconordenamiento\vuelo.h
+	"listaFunciones.h"
+	"pasajeros.h"
+
+1677810891 f:\seminario algoritmia\proyecto 1\prueba total de la practica\practicaconordenamiento\listafunciones.h
+	"IteradorLista.h"
+
+1676097644 f:\seminario algoritmia\proyecto 1\prueba total de la practica\practicaconordenamiento\iteradorlista.h
+	"Nodo.h"
+
+1677205432 f:\seminario algoritmia\proyecto 1\prueba total de la practica\practicaconordenamiento\nodo.h
+	"variablesExtras.h"
+
+1677564427 source:f:\seminario algoritmia\proyecto 1\prueba total de la practica\practicaconordenamiento\main.cpp
+	"listaFunciones.h"
+	"IteradorLista.h"
+	"pasajeros.h"
+	"vuelo.h"
+	<string>
+
+1677564427 source:d:\seminario algoritmia\proyecto 1\prueba total de la practica\practicaconordenamiento\main.cpp
+	"listaFunciones.h"
+	"IteradorLista.h"
+	"pasajeros.h"
+	"vuelo.h"
+	<string>
+
+1677810891 d:\seminario algoritmia\proyecto 1\prueba total de la practica\practicaconordenamiento\listafunciones.h
+	"IteradorLista.h"
+
+1676097644 d:\seminario algoritmia\proyecto 1\prueba total de la practica\practicaconordenamiento\iteradorlista.h
+	"Nodo.h"
+
+1677205432 d:\seminario algoritmia\proyecto 1\prueba total de la practica\practicaconordenamiento\nodo.h
+	"variablesExtras.h"
+
+1677135094 d:\seminario algoritmia\proyecto 1\prueba total de la practica\practicaconordenamiento\variablesextras.h
+	<iostream>
+	<string>
+	<clocale>
+	"stdlib.h"
+
+1676093399 d:\seminario algoritmia\proyecto 1\prueba total de la practica\practicaconordenamiento\pasajeros.h
+	"variablesExtras.h"
+
+1677807221 d:\seminario algoritmia\proyecto 1\prueba total de la practica\practicaconordenamiento\vuelo.h
+	"listaFunciones.h"
+	"pasajeros.h"
+
+1676091395 source:d:\seminario algoritmia\proyecto 1\prueba total de la practica\practicaconordenamiento\pasajero.cpp
+	"pasajeros.h"
+
+1677807221 source:d:\seminario algoritmia\proyecto 1\prueba total de la practica\practicaconordenamiento\vuelo.cpp
+	"vuelo.h"
+
+1677564427 source:e:\seminario algoritmia\proyecto 1\prueba total de la practica\practicaconordenamiento\main.cpp
+	"listaFunciones.h"
+	"IteradorLista.h"
+	"pasajeros.h"
+	"vuelo.h"
+	<string>
+
+1677810891 e:\seminario algoritmia\proyecto 1\prueba total de la practica\practicaconordenamiento\listafunciones.h
+	"IteradorLista.h"
+
+1676097644 e:\seminario algoritmia\proyecto 1\prueba total de la practica\practicaconordenamiento\iteradorlista.h
+	"Nodo.h"
+
+1677205432 e:\seminario algoritmia\proyecto 1\prueba total de la practica\practicaconordenamiento\nodo.h
+	"variablesExtras.h"
+
+1677135094 e:\seminario algoritmia\proyecto 1\prueba total de la practica\practicaconordenamiento\variablesextras.h
+	<iostream>
+	<string>
+	<clocale>
+	"stdlib.h"
+
+1676093399 e:\seminario algoritmia\proyecto 1\prueba total de la practica\practicaconordenamiento\pasajeros.h
+	"variablesExtras.h"
+
+1677807221 e:\seminario algoritmia\proyecto 1\prueba total de la practica\practicaconordenamiento\vuelo.h
+	"listaFunciones.h"
+	"pasajeros.h"
+
+1676091395 source:e:\seminario algoritmia\proyecto 1\prueba total de la practica\practicaconordenamiento\pasajero.cpp
+	"pasajeros.h"
+
+1677807221 source:e:\seminario algoritmia\proyecto 1\prueba total de la practica\practicaconordenamiento\vuelo.cpp
+	"vuelo.h"
+

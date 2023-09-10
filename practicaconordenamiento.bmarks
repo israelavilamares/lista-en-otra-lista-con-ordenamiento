@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<BrowseTracker_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="pasajeros.h" open="1" top="0" tabpos="9">
+		<Cursor position="0" topLine="11" />
+		<BrowseMarks positions="" />
+	</File>
+	<File name="listaFunciones.h" open="1" top="1" tabpos="3">
+		<Cursor position="871" topLine="30" />
+		<BrowseMarks positions="" />
+	</File>
+	<File name="vuelo.h" open="1" top="0" tabpos="4">
+		<Cursor position="869" topLine="12" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="0" topLine="557" />
+	</File>
+	<File name="vuelo.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="1436" topLine="61" />
+		<BrowseMarks positions="1122" />
+	</File>
+	<File name="variablesExtras.h" open="1" top="0" tabpos="7">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="pasajero.cpp" open="1" top="0" tabpos="6">
+		<Cursor position="0" topLine="22" />
+	</File>
+	<File name="IteradorLista.h" open="1" top="0" tabpos="2">
+		<Cursor position="3308" topLine="88" />
+	</File>
+	<File name="Nodo.h" open="1" top="0" tabpos="8">
+		<Cursor position="2168" topLine="47" />
+	</File>
+</BrowseTracker_layout_file>
